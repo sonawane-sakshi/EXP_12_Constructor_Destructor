@@ -27,3 +27,10 @@ int main() {
     
     return 0;
 }
+/*
+**OUTPUT**
+Enter length and width: 5
+6
+Area: 30
+   */
+
