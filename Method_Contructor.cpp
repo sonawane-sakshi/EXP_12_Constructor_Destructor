@@ -26,3 +26,13 @@ int main() {
     obj.displayDate(); 
     return 0;
 }
+
+/*
+**OUTPUT**
+Constructor called.
+Enter date: 23
+Enter month: 7
+Enter year: 2004
+The date is: 23/7/2004
+    */
+
