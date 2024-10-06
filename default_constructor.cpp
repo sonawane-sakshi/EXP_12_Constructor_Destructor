@@ -15,3 +15,7 @@ int main() {
     cout << "a: " << obj.a << ", b: " << obj.b << endl;
     return 0;
 }
+/*
+**OUTPUT**
+    a: 10, b: 20
+    */
