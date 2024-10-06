@@ -20,3 +20,12 @@ int main(){
     student s1;
     student s2,s3;
 };
+/*
+**OUTPUT**
+No of objects created: 1
+No of objects created: 2
+No of objects created: 3
+No of objects destroyed: 3
+No of objects destroyed: 2
+No of objects destroyed: 1
+    */
