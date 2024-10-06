@@ -22,3 +22,8 @@ int main(){
     cout<<"Area of wall 1: "<<Wall1.calculateArea()<<endl;
     cout<<"Area of wall 2: "<<Wall2.calculateArea()<<endl;
 }
+/*
+**OUTPUT**
+Area of wall 1: 90.3
+Area of wall 2: 90.3
+*/
